@@ -1,2 +1,2 @@
-# Kaggle-Competitions
-Repository of Solutions to Kaggle Competitions Undertaken By ASCI Members
+# ASCI-COEP
+Kaggle - Cat in the Dat
